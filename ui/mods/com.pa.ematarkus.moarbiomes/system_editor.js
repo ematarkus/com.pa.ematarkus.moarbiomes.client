@@ -5,3 +5,4 @@ model.biomes.push('grass_metal');
 model.biomes.push('green_moon');
 model.biomes.push('metal_water');
 model.biomes.push('metallic_moon');
+model.biomes.push('treeparadise');
