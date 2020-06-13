@@ -6,3 +6,7 @@ model.biomes.push('green_moon');
 model.biomes.push('metal_water');
 model.biomes.push('metallic_moon');
 model.biomes.push('treeparadise');
+model.biomes.push('mountain_moon');
+model.biomes.push('glowstone');
+model.biomes.push('tropical_2');
+model.biomes.push('tropical_3');
